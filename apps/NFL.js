@@ -3,7 +3,7 @@
 // Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
-  window.location.href = "https://antsports.tv/go/A53ED900";
+  window.location.href = "https://tazztv.trk2afse.com/click?pid=348&offer_id=11&l=1753272716";
 } else {
   // For search engine crawlers, you can choose to perform a different action or not redirect
   console.log("THanks for visiting my page");
